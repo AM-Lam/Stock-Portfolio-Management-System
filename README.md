@@ -3,9 +3,7 @@ The Stock Portfolio Management System strives for providing stock tracking servi
 
 # Tools
 Frontend: HTML, CSS, Javascript, React.js, Bootstrap, Chart.js
-
 Backend: Python, Flask, Bcrypt, SQLite, APIs
-
 Others: Figma, Jira
 
 More details please read the proposal or go to README.md in `stock-portfolio` and `stock-portfolio-backend`.
